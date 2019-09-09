@@ -1,4 +1,6 @@
 # RDEM
-Radiative heat transfer model in Discrete Element Method(RDEM) 
+Radiative heat transfer model in Discrete Element Method(RDEM)   
 
-Authors: wuhao@mail.tsinghua.edu.cn
+Current status: adding references for the model   
+
+Authors: wuhao@mail.tsinghua.edu.cn  
