@@ -3,5 +3,5 @@
 2.Mehrabian, R., Shiehnejadhesar, A., Scharler, R. and Obernberger, I., 2014. Multi-physics modelling of packed bed biomass combustion. *Fuel*, 122, pp.164-178.
 3.Zhou, Z., Yu, A.B. and Zulli, P., 2009. Particle scale study of heat transfer in packed and bubbling fluidized beds. *AIChE Journal*, 55(4), pp.868-884.
 
-**My Publication**
+**My Publication**#
 4.Wu, Hao, et al. "Effect of scale on the modeling of radiation heat transfer in packed pebble beds." *International Journal of Heat and Mass Transfer* 101 (2016): 562-569.
